@@ -1,7 +1,7 @@
 # INSERT COLUMN
 this little awk script to fulfill the task inserting one new column to a certain location
 # Usage
- two vars:
+ two vars
 
  <i>flag:</i> column's value
 
